@@ -1,0 +1,51 @@
+[
+    {
+        "tipo": "Vestido_d",
+        "nome": "Terno de linho",
+        "marca": "Armani",
+        "imagem": null,
+        "disponivel": true
+    },
+    {
+        "tipo": "Blazer",
+        "nome": "Yago",
+        "marca": "gucci",
+        "imagem": null,
+        "disponivel": true
+    },
+    {
+        "tipo": "Vestido_c",
+        "nome": "djkhsakbldsjdgfgh",
+        "marca": "wfegrfhdgfmhgj,hklj",
+        "imagem": "..\/uploads\/682348e785a16.png",
+        "disponivel": true
+    },
+    {
+        "tipo": "Blazer",
+        "nome": "magalas",
+        "marca": "Armani",
+        "imagem": "..\/uploads\/68234a198d4c8.png",
+        "disponivel": true
+    },
+    {
+        "tipo": "Smoking",
+        "nome": "eu amo",
+        "marca": "Armani7777",
+        "imagem": "..\/uploads\/68234a8d85762.png",
+        "disponivel": true
+    },
+    {
+        "tipo": "Smoking",
+        "nome": "yago",
+        "marca": "Armani",
+        "imagem": "..\/uploads\/6823580e9a7ec.png",
+        "disponivel": true
+    },
+    {
+        "tipo": "Smoking",
+        "nome": "natalia",
+        "marca": "Armano",
+        "imagem": "..\/uploads\/682357eb29740.png",
+        "disponivel": true
+    }
+]
